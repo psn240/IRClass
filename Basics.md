@@ -1,3 +1,23 @@
+Generative Models:
+-------------------
+-------------------
+
+https://openai.com/blog/generative-models/
+
+http://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html
+
+https://github.com/aleju/papers/tree/master/neural-nets
+	https://github.com/aleju/papers/blob/master/neural-nets/Adversarially_Learned_Inference.md
+
+
+
+
+Code:
+
+Generative Models with TensorFlow, https://github.com/arahuja/generative-tf
+
+collection of generative methods implemented with TensorFlow, https://github.com/ikostrikov/TensorFlow-VAE-GAN-DRAW
+
 
 Variational Autoencoders :
 ---------------------------
@@ -43,3 +63,76 @@ V: Lectures/ Videos:
 VI: Extensions/ Variations/ Applications
 -----------------------------------------
 1. chainer-Variational-Recurrent-Autoencoder, https://github.com/RyotaKatoh/chainer-Variational-Recurrent-Autoencoder
+
+
+
+
+
+
+-------------
+
+
+
+
+
+Generative Adversial Networks :
+------------------------------
+------------------------------
+
+
+I. Tutorial Style: 
+------------------
+http://cs.stanford.edu/people/karpathy/gan/
+
+
+II. Paper Style:
+---------------- 
+
+DCGAN: https://arxiv.org/pdf/1511.06434v2.pdf
+INFO GAN: https://arxiv.org/pdf/1606.03657v1.pdf
+f-GAN: https://arxiv.org/pdf/1606.00709v1.pdf
+Laplacian GAN: https://arxiv.org/pdf/1506.05751v1.pdf
+Energy based GAN: https://arxiv.org/pdf/1609.03126v2.pdf
+
+
+In-painting using GAN like methods: https://people.eecs.berkeley.edu/~pathak/papers/cvpr16.pdf
+Video Prediction using GAN
+Conditional DCGAN
+
+
+III. Blog Style: 
+----------------
+1. http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/ 
+
+2.http://blog.evjang.com/2016/06/generative-adversarial-nets-in.html
+
+3.https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
+
+
+IV: Code
+--------
+
+https://github.com/carpedm20/DCGAN-tensorflow
+
+https://github.com/aleju/gan-reverser
+
+https://github.com/aleju/colorizer
+
+https://bamos.github.io/2016/08/09/deep-completion/
+
+https://github.com/kashizui/deep-colorization (Y->UV, failed experiment)
+http://cs231n.stanford.edu/reports2016/224_Report.pdf
+
+https://github.com/jimfleming/LAPGAN
+
+V: Lectures/ Videos:
+-------------------- 
+https://www.youtube.com/watch?v=QPkb5VcgXAM
+https://www.youtube.com/watch?v=KeJINHjyzOU
+https://www.youtube.com/watch?v=JEJk-Ug_ebI
+
+VI: Extensions/ Variations/ Applications
+-----------------------------------------
+
+https://www.youtube.com/watch?v=9c4z6YsBGQ0
+
