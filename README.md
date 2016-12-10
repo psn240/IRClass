@@ -8,4 +8,8 @@ Step 2: run: ./resize-script.sh 64 # size of the images would be converted to 64
 
 Step 3: run: python convert-images-to-mnist-format.py
 
+# Run VAE code:
 
+Step 1 : Copy binary format data to tmp/vae/MNIST
+
+Step 2 : run: python vae.py --working_directory tmp/vae #Runs for 64 X 64 files only.
