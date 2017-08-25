@@ -1,5 +1,7 @@
 # IRClass
 
+Contributors: Rama Krishna Raju(rks395@nyu.edu) and Sudhir Nallam(psn240@nyu.edu)
+
 # Data resizing and converting to binary format
 
 Step 1: Upload the images to data/training-images/0 or 1 and data/test-images/0 or 1
