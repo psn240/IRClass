@@ -15,3 +15,9 @@ Step 3: run: python convert-images-to-mnist-format.py
 Step 1 : Copy binary format data to tmp/vae/MNIST
 
 Step 2 : run: python vae.py --working_directory tmp/vae #Runs for 64 X 64 files only.
+
+# Run DCGAN code:
+
+Step 1 : Copy binary format data to tmp/vae/MNIST
+
+Step 2 : run: python gan.py --working_directory tmp/vae #Runs for 64 X 64 files only.
