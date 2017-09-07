@@ -1,3 +1,6 @@
+Limitations of Generative Models- Variational Auto Encoders and Generative Adversarial Networks 
+Refer for details: IR_Project_Paper.pdf
+
 # IRClass
 
 Contributors: Rama Krishna Raju(rks395@nyu.edu) and Sudhir Nallam(psn240@nyu.edu)
