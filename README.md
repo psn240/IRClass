@@ -1,4 +1,4 @@
-Limitations of Generative Models- Variational Auto Encoders and Generative Adversarial Networks 
+Limitations of Generative Models- Variational Auto Encoders and Generative Adversarial Networks   
 Refer for details: IR_Project_Paper.pdf
 
 # IRClass
